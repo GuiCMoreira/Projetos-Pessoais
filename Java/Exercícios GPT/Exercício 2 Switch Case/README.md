@@ -1,0 +1,1 @@
+Crie um programa que leia uma letra do alfabeto (minúscula) e determine se é uma vogal ou uma consoante. Use um switch-case para realizar essa verificação.
