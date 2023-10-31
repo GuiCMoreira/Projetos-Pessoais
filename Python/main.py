@@ -25,8 +25,8 @@ print(vet1[2])
 
 vet2 = []
 vet2.append("Gui")
-vet2.append("Lindo")
+vet2.append("Carvalho")
 print(vet2)
 
 for x in range(5):
-  print("Faço sexo")
+  print("Olá")
